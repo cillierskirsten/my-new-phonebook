@@ -1,5 +1,5 @@
 import {Contact} from './contact.js';
-import {PhoneBook} from './PhoneBook.js';
+import {PhoneBook} from './phoneBook.js';
 
 // var john = new Contact ('John Cilliers', '1234 1234 1234', 'john.cilliers@yahoo.com');
 // var jane = new Contact ('Annie Cilliers', '6789 8765 8907', 'anniec@gmail.com');
