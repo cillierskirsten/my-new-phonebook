@@ -1,0 +1,14 @@
+.contact-list {
+    width: 100%;
+    margin: 40px auto;
+    padding: 10px 15px;
+    background-color:#e2ffdd;
+    border: solid 1px black;
+    color: #555;
+    border-radius: 8px;
+}
+
+hr {
+    border-color: #555;
+    border-width: 5px;
+}
