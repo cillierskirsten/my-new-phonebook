@@ -1,4 +1,4 @@
-import {Contact} from './Contact.js';
+import {Contact} from './contact.js';
 
 export class ContactForm {
     constructor(wrapper, addContact) {
