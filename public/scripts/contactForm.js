@@ -12,7 +12,7 @@ export class ContactForm {
                 <form>
                     <div class="form-group">
                       <label for="name">Full Name</label>
-                      <input type="text" name="name" id="name" class="form-control" placeholder="Please eneter your Full Name." aria-describedby="helpId" />
+                      <input type="text" name="name" id="name" class="form-control" placeholder="Please enter your Full Name." aria-describedby="helpId" />
                     </div>
                     <div class="form-row">
                         <div class="form-group halfWidth">
